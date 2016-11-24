@@ -1,0 +1,12 @@
+# Yes. There's no need for quotes 
+# Fix that replaces. (yes, you must rewrite good portion of
+# sources)
+
+project GoPack
+version 0.0.1-dev
+pkg main
+binary gopack
+queue pgtbi
+
+# Uncomment next statement to see it in action 
+# get github.com/layeh/gopher-luar
